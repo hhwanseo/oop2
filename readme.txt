@@ -3,4 +3,7 @@ msvs 2019
 
 ubuntu (ws12)
 
-git
+git(window)
+
+git(linux)
+github
